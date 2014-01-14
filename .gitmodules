@@ -1,0 +1,3 @@
+[submodule "imagemagick"]
+	path = imagemagick
+	url = https://github.com/opscode-cookbooks/imagemagick.git
