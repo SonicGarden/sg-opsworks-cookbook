@@ -1,3 +1,6 @@
 [submodule "imagemagick"]
 	path = imagemagick
 	url = https://github.com/opscode-cookbooks/imagemagick.git
+[submodule "opsworks_papertrail"]
+	path = opsworks_papertrail
+	url = https://github.com/joeyAghion/opsworks_papertrail.git
