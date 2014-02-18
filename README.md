@@ -8,7 +8,8 @@ Stack の Custom Chef JSON にて以下を追加
   "papertrail": {
     "destination": "logs.papertrailapp.com:[PORT]",
     "log_files": {
-      "rails": "/srv/www/[APP_NAME]/shared/log/production.log"
+      "rails": "/srv/www/[APP_NAME]/shared/log/production.log",
+      "batch": "/srv/www/[APP_NAME]/shared/log/batch.log"
     }
   }
 }
